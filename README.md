@@ -40,11 +40,11 @@ This project focuses on analyzing HR data to understand attrition patterns, sala
 ## 📂 Project Structure
 
 ```
-├── data/ # HR dataset (not included here for confidentiality)
-├── notebooks/ # Jupyter notebooks with EDA & ML
-├── powerbi/ # Power BI dashboards (.pbix)
-├── reports/ # PDF report of findings
-├── README.md # Project documentation
+├── data/ # HR_Attrition_Analytics_Dataset.csv
+├── notebooks/ # HR_Attrition_Analytics.ipybp
+├── powerbi/ # HR_Attrition_Dashboard.pbix
+├── reports/ # HR_Attrition_Analytics_Report.pdf
+├── README.md # Project Description 
 ```
 
 ---
