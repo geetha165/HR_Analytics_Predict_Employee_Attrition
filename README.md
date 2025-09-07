@@ -56,6 +56,13 @@ It summarizes **EDA findings, model results, and SHAP explainability**.
 
 ---
 
+## 📈 Dashboard Screenshot
+
+<img width="1276" height="715" alt="HR_PowerBI_Dashboard1" src="https://github.com/user-attachments/assets/e62aa4fa-fbeb-4f94-9034-ba71fd187c62" />
+<img width="1281" height="720" alt="HR_PowerBI_Dashboard2" src="https://github.com/user-attachments/assets/7a3f7546-271c-4052-8144-9209b0255c2a" />
+
+--- 
+
 ## 📈 Dashboards
 
 Interactive dashboards were created in **Power BI** to visualize:
