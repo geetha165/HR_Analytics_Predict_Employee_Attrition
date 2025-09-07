@@ -49,4 +49,26 @@ This project focuses on analyzing HR data to understand attrition patterns, sala
 
 ---
 
+## 📑 Report
+
+A detailed 2-page report is available in the `HR_Attrition_Analytics_Report.pdf/` file.  
+It summarizes **EDA findings, model results, and SHAP explainability**.
+
+---
+
+## 📈 Dashboards
+
+Interactive dashboards were created in **Power BI** to visualize:
+- Attrition by Department  
+- Salary Band distribution  
+- Promotion and Attrition trends  
+
+---
+
+## ✨ Future Enhancements
+
+- Add **Random Forest** and **Gradient Boosting** models  
+- Deploy model with a simple **Flask/Django** app  
+- Automate dashboard refresh with **live HR data**  
+
 
