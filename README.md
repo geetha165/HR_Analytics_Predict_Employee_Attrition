@@ -71,4 +71,16 @@ Interactive dashboards were created in **Power BI** to visualize:
 - Deploy model with a simple **Flask/Django** app  
 - Automate dashboard refresh with **live HR data**  
 
+---
+
+## ✅ Final Conclusion
+
+- This Power BI dashboard helps identify patterns among data professionals, such as which roles pay more, how happy employees are, and what skills they prefer. These insights can be used by:
+- Recruiters for better targeting of candidates
+- Educators to focus on high-demand skills like Python
+- Professionals to benchmark their own roles and expectations
+  
+## 📬 Connect with me on LinkedIn:
+
+- <a href="https://www.linkedin.com/in/geetha-venkatesan2205/">👉 LinkedIn Profile</a>
 
