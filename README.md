@@ -1,4 +1,4 @@
-# HR Analytics and Attrition Prediction
+  # HR Analytics and Attrition Prediction
 
 This project focuses on analyzing HR data to understand attrition patterns, salary bands, promotions, and building predictive models to identify employees at risk of leaving. The project also includes model explainability using SHAP and visualization through Power BI.
 
@@ -39,11 +39,11 @@ This project focuses on analyzing HR data to understand attrition patterns, sala
 
 ## 📂 Project Structure
 
-```├── data/ # HR dataset (not included here for confidentiality)
+``` ├── data/ # HR dataset (not included here for confidentiality)
 ├── notebooks/ # Jupyter notebooks with EDA & ML
 ├── powerbi/ # Power BI dashboards (.pbix)
 ├── reports/ # PDF report of findings
-├── README.md # Project documentation```
+├── README.md # Project documentation ```
 
 ---
 
